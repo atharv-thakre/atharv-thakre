@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Readme Card](https://github-stats-frontend-sepia.vercel.app/api/pin/?username=atharv-thakreepo=type-trident)](https://github.com/anuraghazra/type-trident)
