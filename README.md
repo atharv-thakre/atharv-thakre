@@ -23,11 +23,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-frontend-sepia.vercel.app/api?username=atharv-thakre&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-stats-frontend-sepia.vercel.app/api?username=atharv-thakre&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Atharvs's GitHub stats" />
-<!-- </picture>
+</picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia)" />
-  <img width="29%" src="github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia)" alt="Top languages" />
-</picture> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia" />
+  <img width="29%" src="github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia" alt="Top languages" />
+</picture>
 
 </div>
 
