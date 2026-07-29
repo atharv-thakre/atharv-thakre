@@ -26,7 +26,7 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=https://github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia)" />
-  <img width="29%" src="github-stats-frontend-sepia.vercel.app)" alt="Top languages" />
+  <img width="29%" src="github-stats-extended.vercel.app/api/top-langs?username=atharv-thakre&hide_progress=true&langs_count=10&theme=algolia)" alt="Top languages" />
 </picture>
 
 </div>
